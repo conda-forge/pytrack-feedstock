@@ -17,7 +17,7 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.7
   run:
     - folium >=0.12.1.post1,==0.12.1.*
     - matplotlib-base >=3.5.2,==3.5.*
