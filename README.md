@@ -1,11 +1,11 @@
-About pytrack
-=============
+About pytrack-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytrack-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cosbidev/PyTrack
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytrack-feedstock/blob/main/LICENSE.txt)
 
 Summary: a Map-Matching-based Python Toolbox for Vehicle Trajectory Reconstruction
 
