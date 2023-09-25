@@ -1,5 +1,5 @@
 {% set name = "PyTrack" %}
-{% set version = "2.0.7" %}
+{% set version = "2.0.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/cosbidev/PyTrack/archive/v{{ version }}.tar.gz
-  sha256: bccfa33858003f8ae79e837b26f50d0e29d22530c170827ffb891b03be778850
+  sha256: dbfb83a44e09ff2848bde4a77d7c224e68ad1d307cbdfaf1689d7143f4073e7c
 
 build:
   noarch: python
